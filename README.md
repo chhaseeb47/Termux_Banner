@@ -29,39 +29,7 @@ just type remove command in termux for restore old termux theme.
 </pre>
 
 
-## Tutorial :
-<p>
-  <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
-  </p>
 
-## Termux Ninja App
-<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxninja"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_ninja_banner.png" alt="Termux Ninja"  ></a></center>
-<pre> 
-  Features :
-  - Cool UI
-  - Category Wise Tools
-  - 100+ Working Termux Tools
-  - Install any tool with single commands !
-  - Linux Commands
-  - Termux Basic Guide
-  - and much more..
-</pre>
-
-## Termux Tutorials & Learn Cybersecurity
-<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
-<pre> 
-  Features :
-  - Cool UI
-  - Author Info
-  - 100+ Working Termux Tools
-  - Install any tool with single commands !
-  - and much more..
-
-  Visit our site :
-  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
-
-  
-  
 </pre>
 
 
